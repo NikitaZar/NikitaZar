@@ -1,4 +1,4 @@
-# Nikita Zarubin - Android Dev
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70E&background=00BEFF00&vCenter=true&repeat=false&width=700&lines=Nikita+Zarubin+-+Android+Developer)](https://git.io/typing-svg)
 
 Hi! My name is Nikita and I like to develop Android app! I graduated from the Android Netology Online School in 2022 and am now looking for my first job in this field.
 
