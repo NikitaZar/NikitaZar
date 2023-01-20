@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70E&background=00BEFF00&vCenter=true&width=700&lines=Nikita+Zarubin+-+Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70E&background=00BEFF00&vCenter=true&repeat=false&width=700&lines=Nikita+Zarubin+-+Android+Developer)](https://git.io/typing-svg)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 Hi! My name is Nikita and I like to develop Android app! I graduated from the Android Netology Online School in 2022 and am now looking for my first job in this field.
 
@@ -28,7 +29,7 @@ Hi! My name is Nikita and I like to develop Android app! I graduated from the An
 - [Time managment](https://github.com/NikitaZar/NikitaZar/blob/main/certificates/NetologyTimeManagment.pdf "Time management")
 - [English lang](https://github.com/NikitaZar/NikitaZar/blob/main/certificates/PreInt.jpeg "English lang")
 
-## My projects:
+## My project:
 - [BINLIST](https://github.com/NikitaZar/BINLIST.NET "BINLIST")
 - [Santechnika Online](https://github.com/NikitaZar/test_santehnika-online "Santechnika Online")
 - [Markers on Yandex Map](https://github.com/NikitaZar/Markers-on-Yandex-Maps "[Markers on Yandex Map")
