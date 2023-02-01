@@ -31,6 +31,7 @@ Hi! My name is Nikita and I like to develop Android app! I graduated from the An
 - [English lang](https://github.com/NikitaZar/NikitaZar/blob/main/certificates/PreInt.jpeg "English lang")
 
 ## My project:
+- [SPB Weather](https://github.com/NikitaZar/SPB-Weather "SPB Weather")
 - [BINLIST](https://github.com/NikitaZar/BINLIST.NET "BINLIST")
 - [Santechnika Online](https://github.com/NikitaZar/test_santehnika-online "Santechnika Online")
 - [Markers on Yandex Map](https://github.com/NikitaZar/Markers-on-Yandex-Maps "[Markers on Yandex Map")
