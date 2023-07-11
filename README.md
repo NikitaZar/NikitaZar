@@ -5,18 +5,18 @@
 
 ## My hard-skils:
 - Kotlin, Java
+- Single Activity
 - Okhttp/Retrofit
-- Coroutines
+- Coroutines/Flow
 - Room
 - Hilt, Koin
-- MVVM, LiveData, Flow/StateFlow
+- MVP (Moxy)/MVVM/MVI 
 - Clean Architecture
-- Navigation Components
-- Paging
+- Jetpack Navigation Components
+- Paging Lib.
 - Yandex Map Kit
 - Pushes (FCM)
 - Glide
-- Image picker
 
 ## My certificates:
 - [Java](https://github.com/NikitaZar/NikitaZar/blob/main/certificates/certificate_Java.pdf "Java")
